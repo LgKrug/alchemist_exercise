@@ -43,4 +43,16 @@ public class Elemento {
     public int getQuantidadeHidrogenio() {
         return quantidadeHidrogenio;
     }
+
+    public int getQuantidade1() {
+        return quantidade1;
+    }
+
+    public int getQuantidade2() {
+        return quantidade2;
+    }
+    
+    public void setQuantidadeHidrogenio(int quantidadeHidrogenio) {
+        this.quantidadeHidrogenio = quantidadeHidrogenio;
+    }
 }
